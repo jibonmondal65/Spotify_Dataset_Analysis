@@ -25,7 +25,11 @@ Language-wise Analysis — How danceability, energy, and valence vary by languag
 Top Artists Analysis — Most prolific artists and their musical profiles.
 
 📁 Repository Structure
+
 README.md (This file)
+
 spotify_tracks.csv (The raw dataset used for the analysis)
+
 Spotify_dataset.ipynb (The main Jupyter Notebook with all our code and analysis)
+
 Spotify_Presentation.pdf (A summary of our findings and recommendations)
